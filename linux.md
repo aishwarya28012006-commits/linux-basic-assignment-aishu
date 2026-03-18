@@ -71,6 +71,8 @@ uptime
 3. rm removes files and directories, rmdir removes only empty directories.
 4. netstat -tulpn shows active network connections, listening ports, and the process using them.
 5. ping checks connectivity between your system and another server.
+
+
 #section 4
 1. pwd
 2. mkdir ~/devops
